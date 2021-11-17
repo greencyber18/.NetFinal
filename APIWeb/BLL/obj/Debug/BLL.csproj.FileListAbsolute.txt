@@ -1,0 +1,14 @@
+C:\FinalRandom\APIWeb\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\FinalRandom\APIWeb\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\FinalRandom\APIWeb\BLL\bin\Debug\BLL.dll
+C:\FinalRandom\APIWeb\BLL\bin\Debug\BLL.pdb
+C:\FinalRandom\APIWeb\BLL\bin\Debug\AutoMapper.dll
+C:\FinalRandom\APIWeb\BLL\bin\Debug\DAL.dll
+C:\FinalRandom\APIWeb\BLL\bin\Debug\EntityFramework.dll
+C:\FinalRandom\APIWeb\BLL\bin\Debug\DAL.pdb
+C:\FinalRandom\APIWeb\BLL\bin\Debug\DAL.dll.config
+C:\FinalRandom\APIWeb\BLL\bin\Debug\AutoMapper.xml
+C:\FinalRandom\APIWeb\BLL\bin\Debug\EntityFramework.xml
+C:\FinalRandom\APIWeb\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\FinalRandom\APIWeb\BLL\obj\Debug\BLL.dll
+C:\FinalRandom\APIWeb\BLL\obj\Debug\BLL.pdb

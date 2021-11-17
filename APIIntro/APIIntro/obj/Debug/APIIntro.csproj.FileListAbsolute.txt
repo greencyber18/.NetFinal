@@ -1,0 +1,2 @@
+C:\FinalRandom\APIIntro\APIIntro\obj\Debug\APIIntro.csproj.AssemblyReference.cache
+C:\FinalRandom\APIIntro\APIIntro\obj\Debug\APIIntro.csproj.CoreCompileInputs.cache

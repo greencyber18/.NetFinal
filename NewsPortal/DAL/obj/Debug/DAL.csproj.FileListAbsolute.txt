@@ -1,0 +1,9 @@
+C:\FinalRandom\NewsPortal\DAL\bin\Debug\DAL.dll.config
+C:\FinalRandom\NewsPortal\DAL\bin\Debug\DAL.dll
+C:\FinalRandom\NewsPortal\DAL\bin\Debug\DAL.pdb
+C:\FinalRandom\NewsPortal\DAL\bin\Debug\EntityFramework.dll
+C:\FinalRandom\NewsPortal\DAL\bin\Debug\EntityFramework.xml
+C:\FinalRandom\NewsPortal\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\FinalRandom\NewsPortal\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\FinalRandom\NewsPortal\DAL\obj\Debug\DAL.dll
+C:\FinalRandom\NewsPortal\DAL\obj\Debug\DAL.pdb

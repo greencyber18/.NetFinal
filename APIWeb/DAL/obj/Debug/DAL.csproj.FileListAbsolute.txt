@@ -1,0 +1,10 @@
+C:\FinalRandom\APIWeb\DAL\bin\Debug\DAL.dll.config
+C:\FinalRandom\APIWeb\DAL\bin\Debug\DAL.dll
+C:\FinalRandom\APIWeb\DAL\bin\Debug\DAL.pdb
+C:\FinalRandom\APIWeb\DAL\bin\Debug\EntityFramework.dll
+C:\FinalRandom\APIWeb\DAL\bin\Debug\EntityFramework.xml
+C:\FinalRandom\APIWeb\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\FinalRandom\APIWeb\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\FinalRandom\APIWeb\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\FinalRandom\APIWeb\DAL\obj\Debug\DAL.dll
+C:\FinalRandom\APIWeb\DAL\obj\Debug\DAL.pdb
